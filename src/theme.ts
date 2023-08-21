@@ -414,7 +414,7 @@ export const COLORS: {[name: string]: Theme} = {
     TEXT: "#9f9f9f",
     LAUREL: "#9f9f9f",
     SECRET_RANK_1: "#f9f9f9",
-    SECRET_RANK_2: "#f9f9f9",
+    SECRET_RANK_2: "#8f9094",
     SECRET_RANK_3: "#1d1e26",
     SECRET_RANK_TEXT: "#9f9f9f",
     NEXT_RANK_BAR: "#B400FF",
