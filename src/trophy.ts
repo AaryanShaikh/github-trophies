@@ -1,6 +1,6 @@
-import { getTrophyIcon, getNextRankBar } from "./icons.js";
-import { CONSTANTS, RANK, abridgeScore, RANK_ORDER } from "./utils.js";
-import { Theme } from "./theme.js";
+import { getTrophyIcon, getNextRankBar } from "./icons";
+import { CONSTANTS, RANK, abridgeScore, RANK_ORDER } from "./utils";
+import { Theme } from "./theme";
 
 class RankCondition {
   constructor(
