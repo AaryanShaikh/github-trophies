@@ -302,7 +302,7 @@ export class TotalCommitTrophy extends Trophy {
       ),
     ];
     super(score, rankConditions);
-    this.title = "Commits (2023)";
+    this.title = "Commits";
     this.filterTitles = ["Commit", "Commits"];
   }
 }
